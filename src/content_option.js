@@ -1,6 +1,4 @@
-import myImage from './assets/images/2435.jpg';
 const logotext = "Polia";
-const img = myImage;
 const meta = {
     title: "Krysevych",
     description: "",
