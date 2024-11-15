@@ -81,7 +81,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://lh3.googleusercontent.com/8pHZIQ_LgKK530sjNXWSgN30hlZbmGcloU2mHYBU07AXzR7KT6RiGSSlmx3cpObJsb7JDL0RIFqspULvcTsPLY9FmveNSf8IalgJUjWs150xakepi-S5ZFClammB1eP_8A=w1280",
+        img: "https://i.imgur.com/6Z5ZTAw.png",
         description: "Місце: 1. Чемпіонат України серед юнаків, юніорів та дорослих: Командний спаринг",
         link: "#",
     },
